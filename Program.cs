@@ -10,6 +10,7 @@ namespace Exercicio1
     {
         static void Main(string[] args)
         {
+            //aula 77
             List<string> lista = new List<string>();
             lista.Add("Maria");
             lista.Add("Alex");
